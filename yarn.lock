@@ -2277,6 +2277,11 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
+bitmovin-player@8.32:
+  version "8.32.1"
+  resolved "http://teamcity.haivision.com:4873/bitmovin-player/-/bitmovin-player-8.32.1.tgz#c3ee33801a638c44dc4c25285f0f3b80a7991290"
+  integrity sha512-K/PDj7eYu6j9CVh85hothze/hBgzHc+UwGSlLt8+q9Qn8XUs5rVUTxXjQS1tlaU+cm0gZ95gz5WLL+PhO/RtZw==
+
 bluebird@^3.5.5:
   version "3.7.2"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
